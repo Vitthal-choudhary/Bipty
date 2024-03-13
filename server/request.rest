@@ -1,0 +1,21 @@
+
+POST http://localhost:3001/login
+Content-Type: application/json
+
+{
+  "username": "vitthal",
+  "secret": "hello123"
+}
+
+###
+
+POST http://localhost:3001/signup
+Content-Type: application/json
+
+{
+  "username": "vitthal",
+  "secret": "hello123",
+  "email": "vc9378@srmist.edu.in",
+  "first_name": "Vitthal",
+  "last_name": "Choudhary"
+}
