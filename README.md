@@ -1,5 +1,5 @@
-# Stork
-A Simple ChatBot webapp - "Stork"
+# Bipty
+A Simple ChatBot webapp - "Bipty"
 
 This webapp uses chatengine.io API, Python, React js for diffrent purposes
 
