@@ -17,5 +17,4 @@ To use thisyou need to
 Thank You
 
 
-https://files-ld.s3.us-east-2.amazonaws.com/PhishingChallenge.zip
-bounce@rjttznyzjjzydnillquh.designclub.uk.com
+https://files-ld.s3.us-east-2.amazonaws.com/smtpchallenge.zip
